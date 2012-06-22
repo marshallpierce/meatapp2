@@ -7,6 +7,7 @@ Ext.application({
 
     models: ['Meat'],
     views: ['Main'],
+    controllers: ['Application'],
     stores: ['Meats'],
 
     icon: {
